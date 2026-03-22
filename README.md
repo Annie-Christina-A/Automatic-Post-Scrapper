@@ -151,7 +151,6 @@ Paced scrolling and stop signals reduce excessive activity, minimising the risk 
 ## Limitations
 
 - **LinkedIn UI changes** — LinkedIn periodically updates their DOM structure. The extension may need updates when this happens. Watch for `nan` profile names or 0 posts scraped as indicators.
-- **Non-English UIs** — Some detection patterns (e.g. `Show translation`, `followers`) are English-specific. Non-English LinkedIn interfaces may affect accuracy.
 - **Follower count** — LinkedIn does not always expose follower counts for personal profiles. These will appear blank in the export.
 - **Platform restrictions** — LinkedIn's terms of service restrict automated data collection. Use responsibly.
 
