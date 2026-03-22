@@ -66,7 +66,7 @@ The extension icon will appear in your Chrome toolbar.
 1. Go to [LinkedIn](https://www.linkedin.com) and search for a keyword
 2. Click the **Posts** tab in search results
 3. Sort by **Latest** (important — ensures date filtering works correctly)
-4. Click the **HookedIn** extension icon in your toolbar
+4. Click the extension icon in your toolbar
 5. Set your **Start Date** and **End Date**
 6. Click **Start** — the extension begins scrolling and collecting posts
 7. You can close the popup — scraping runs in the background
