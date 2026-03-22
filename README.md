@@ -57,7 +57,7 @@ Each exported CSV contains the following columns:
 4. Click **Load unpacked**
 5. Select the extension folder
 
-The HookedIn icon will appear in your Chrome toolbar.
+The extension icon will appear in your Chrome toolbar.
 
 ---
 
