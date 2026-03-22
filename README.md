@@ -1,4 +1,4 @@
-# HookedIn — LinkedIn Post Scraper
+LinkedIn Post Scraper
 
 > A Chrome Extension that automates LinkedIn post extraction for media monitoring workflows. Search by keyword, filter by date range, and export clean structured data — instantly.
 
@@ -12,7 +12,7 @@
 
 Media monitoring on LinkedIn is a manual, time-consuming process. Analysts spend hours scrolling, copying post content, extracting timestamps with external tools, and compiling everything into spreadsheets.
 
-**HookedIn automates the entire workflow in one click.**
+**This extension automates the entire workflow in one click.**
 
 You set a keyword on LinkedIn's search page, pick a date range, hit Start — and the extension scrolls, extracts, and exports a clean CSV with everything you need.
 
