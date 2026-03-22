@@ -138,7 +138,8 @@ Paced scrolling and stop signals reduce excessive activity, minimising the risk 
 - CSV export
 
 ### Phase 2 — Enhanced Data Enrichment 🚧 Planned
-- Region / location extraction per profile
+- Region
+- Follower count for every profile
 
 ### Phase 3 — Sentiment Intelligence 🚧 Planned
 - Generative AI integration for automated post analysis
