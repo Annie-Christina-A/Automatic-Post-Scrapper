@@ -166,7 +166,7 @@ Paced scrolling and stop signals reduce excessive activity, minimising the risk 
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by **Team Dorado**
 Media Monitoring Analyst — CapeStart / Fullintel
 
 ---
